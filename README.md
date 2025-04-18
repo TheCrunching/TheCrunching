@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @TheCrunching
-- 👀 I’m interested in Minecraft!
-- 🌱 I’m currently learning how to fly!
-- ⚡ Fun fact: I have never started a minecraft survival world, only hardcore and creative.
+I am a code developer!
 
 <!---
 TheCrunching/TheCrunching is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
